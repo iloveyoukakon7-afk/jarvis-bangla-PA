@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355011821738",
+    "project_id": "gen-lang-client-0665608854",
+    "storage_bucket": "gen-lang-client-0665608854.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355011821738:android:6e60305190ae980035d0d3",
+        "android_client_info": {
+          "package_name": "com.jarvisbangla.assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tnmg-Ce4SRlzeXoAmm-ID-gM_S0B88g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
