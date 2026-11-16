@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ছোটু</string>
+    <string name="hud_title">ছোটু — সুমন বসের সহকারী</string>
+    <string name="wake_service_channel_name">ছোটু ভয়েস সার্ভিস</string>
+    <string name="call_agent_channel_name">ছোটু দারোয়ান কল সিস্টেম</string>
+    <string name="shortcut_voice_short">ছোটু শোন</string>
+    <string name="shortcut_voice_long">ছোটু — সরাসরি ভয়েসে হুকুম দিন</string>
+    <string name="shortcut_call_short">দারোয়ান</string>
+    <string name="shortcut_call_long">ছোটু দারোয়ান কল এজেন্ট</string>
+    <string name="shortcut_unlock_short">মেমরি খোল</string>
+    <string name="shortcut_unlock_long">ছোটুর মেমরি ও ভল্ট</string>
+</resources>

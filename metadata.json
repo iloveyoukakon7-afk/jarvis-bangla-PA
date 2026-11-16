@@ -1,0 +1,6 @@
+{
+  "name": "ছোটু",
+  "description": "সুমন বসের প্রিমিয়াম পার্সোনাল অ্যাসিস্ট্যান্ট — ঢাকাইয়া ও গ্রাম্য বাংলায় কথা বলে, মেমরি রাখে, কল রেকর্ড ও দারোয়ান সিস্টেম চালায়।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

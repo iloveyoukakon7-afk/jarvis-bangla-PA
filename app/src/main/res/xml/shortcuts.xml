@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="static_voice_listen"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_voice_short"
+        android:shortcutLongLabel="@string/shortcut_voice_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.jarvisbangla.assistant"
+            android:targetClass="com.example.MainActivity">
+            <extra android:name="shortcut_action" android:value="start_listening" />
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="static_call_agent"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_call_short"
+        android:shortcutLongLabel="@string/shortcut_call_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.jarvisbangla.assistant"
+            android:targetClass="com.example.MainActivity">
+            <extra android:name="shortcut_action" android:value="open_call_agent" />
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="static_voice_unlock"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_unlock_short"
+        android:shortcutLongLabel="@string/shortcut_unlock_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.jarvisbangla.assistant"
+            android:targetClass="com.example.MainActivity">
+            <extra android:name="shortcut_action" android:value="voice_unlock" />
+        </intent>
+    </shortcut>
+</shortcuts>
