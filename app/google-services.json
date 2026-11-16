@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13093622552",
+    "project_id": "jarvis-bangla-pa",
+    "storage_bucket": "jarvis-bangla-pa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13093622552:android:94ca776d60db24f8de446d",
+        "android_client_info": {
+          "package_name": "com.jarvisbangla.assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlSw3oJ3ZH6gD9MvNBKzerRbP3jqA78c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
